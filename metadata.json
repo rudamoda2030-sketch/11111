@@ -1,0 +1,8 @@
+{
+  "name": "Remix MacCMS V10 无广告 JSON 影视解析服务与管理系统",
+  "description": "自建独立无广告 JSON 视频流解析 API 服务，原生对接 MacCMS V10，支持多源线路、剧集解析、SSRF安全防护、域名白名单与影视客户端协议适配。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
